@@ -1,2 +1,0 @@
-tessstar;
-// testar igen;
